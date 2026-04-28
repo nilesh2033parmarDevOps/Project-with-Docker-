@@ -1,0 +1,21 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
