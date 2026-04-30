@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container">
       <h1>🚀 React + Docker App</h1>
-      <p>DevOps Practice Project </p>
+      <p>DevOps Practice Project 1 </p>
 
       <div className="card">
         <h2>Counter: {count}</h2>
