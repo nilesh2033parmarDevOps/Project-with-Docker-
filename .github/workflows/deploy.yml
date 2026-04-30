@@ -15,7 +15,7 @@ jobs:
         with:
           host: 187.127.135.184
           username: root
-          key: ${{ secrets.SSH_KEY }}
+          key: ${{ secrets.SSH_KEY_PRIVATE }}
           script: |
             cd ~/Project2
             ./deploy.sh
