@@ -17,5 +17,5 @@ jobs:
           username: root
           key: ${{ secrets.SSH_KEY_PRIVATE }}
           script: |
-            cd ~/Project2
+            cd ~/Project-with-Docker-
             ./deploy.sh
